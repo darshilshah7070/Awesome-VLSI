@@ -31,8 +31,7 @@
 ### Tutorials & Documentation
 - [Nand2Tetris](https://www.nand2tetris.org/) - Build a computer from scratch
 - [ASIC World](http://www.asic-world.com/) - Verilog, SystemVerilog, and VLSI tutorials
-- [ChipDev](https://chipdev.io/) - Open-source chip development tutorials
-- [VSDOpen](https://www.vlsisystemdesign.com/) - Free VLSI courses and tutorials
+- [ChipDev](https://chipdev.io/) - Chip development tutorials
 - [OpenLane Documentation](https://openlane.readthedocs.io/) - Complete RTL to GDSII flow
 - [HDL Bits](https://hdlbits.01xz.net/) - Interactive Verilog/SystemVerilog practice problems
 
