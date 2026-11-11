@@ -30,6 +30,7 @@
 - [ASIC World](http://www.asic-world.com/) - Verilog, SystemVerilog, and VLSI tutorials
 - [ChipDev](https://chipdev.io/) - Chip development tutorials
 - [OpenLane Documentation](https://openlane.readthedocs.io/) - Complete RTL to GDSII flow
+- [ChipXpert VLSI Tutorials](https://chipxpert.in/tutorials/verilog/) - Verilog, SystemVerilog, UVM, verification and digital-fundamentals tutorials, each with iverilog/Verilator-verified code examples
 
 ### University Courses
 - [MIT 6.004 - Computation Structures](https://6004.mit.edu/)
